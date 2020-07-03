@@ -1,0 +1,46 @@
+body{
+	margin: 0px;
+	background-image: url(https://i.pinimg.com/736x/42/11/83/421183ad16ad430a9c6ee3e91b72974e.jpg);
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1 {
+	color: purple;
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+}
+
+
+
+a{
+	color:white;
+	font-size: 2em;
+	margin-top: 250px;
+	
+
+}
+
+
+img {
+    width: 200px;
+	height: 200px;
+	margin: 20px;
+transition: all 1s;
+
+}
+
+img:hover{
+
+
+	transform: scale(1.1);
+}

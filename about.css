@@ -1,0 +1,21 @@
+body{
+	background-image: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+
+p{
+	color: red;
+	font-size: 2em;
+	font-family: times of roman;
+	border-bottom: 5px solid pink;
+	text-align: center;
+	margin-top: 80px;
+	
+}
+a{
+	color: white;
+	font-size: 2em;
+	margin-top: 50px;
+
+
+}

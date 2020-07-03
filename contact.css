@@ -1,0 +1,31 @@
+h1 {
+	color: white;
+	font-size: 2em;
+	font-family: times of roman;
+	border-bottom: 5px solid pink;
+	border-top: 5px solid pink;
+	border-right: 5px solid pink;
+	border-left: 5px solid pink;
+
+}
+
+a{
+	color: white;
+	font-size: 2em;
+	font-family: times of roman;
+}
+body{
+	margin: 0px;
+	background-image: url(https://specials-images.forbesimg.com/imageserve/5d8bac4f22254b0008e17703/960x0.jpg?fit=scale);
+}
+
+
+li{
+	color: white;
+	font-size: 2em;
+	font-family: times of roman;
+	border-bottom: 5px solid pink;
+	text-align: center;
+	margin-top: 80px;
+	
+}
